@@ -1,0 +1,1 @@
+For Arduino IDE (auto)-configuration.
