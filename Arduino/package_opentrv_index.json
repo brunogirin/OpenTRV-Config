@@ -16,7 +16,7 @@
                "category": "Arduino",
                "url": "https://github.com/Denzo77/OpenTRV-Config/raw/master/Arduino/OpenTRV_0.0.4.zip",
                "archiveFileName": "OpenTRV_0.0.4.zip",
-               "checksum": "SHA-256:231c9ebd79a9a04001433d1300d98bfdbb7aa46d45049a946ff8d092a69cbcbc",
+               "checksum": "SHA-256:db0c5376aad9d0e64edc2adfa29e01b7d90fd1e1f571316b3d3966eddbf0230f",
                "size": "1776",
                "help":{
                   "online":"http://lists.opentrv.org.uk/pipermail/opentrv-dev/"
