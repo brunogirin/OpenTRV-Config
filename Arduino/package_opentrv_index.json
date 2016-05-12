@@ -6,7 +6,7 @@
          "websiteURL":"http://opentrv.org.uk/",
          "email":"opentrv@opentrv.org.uk",
          "help":{
-            "online":"http://lists.opentrv.org.uk/pipermail/opentrv-dev/"
+            "online":"https://github.com/opentrv/OpenTRV-Config/wiki/Arduino-IDE-setup"
          },
          "platforms":[
             {
@@ -19,7 +19,7 @@
                "checksum": "SHA-256:f3b7907ad7b1217d65dbddc1e7fc1c1c0db05e095f2e3ee2ba8074ef82ca07bb",
                "size": "1800",
                "help":{
-                  "online":"http://lists.opentrv.org.uk/pipermail/opentrv-dev/"
+                  "online":"https://github.com/opentrv/OpenTRV-Config/wiki/Arduino-IDE-setup"
                },
                "boards": [
                   {
