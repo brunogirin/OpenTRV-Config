@@ -8,3 +8,5 @@ https://raw.githubusercontent.com/opentrv/OpenTRV-Config/master/Arduino/package_
 - Click install.
 
 - Select Tools>Boards>OpenTRV V0p2
+
+If you have any questions or would like to contribute, you can join the OpenTRV dev list at http://lists.opentrv.org.uk/listinfo/opentrv-dev 
