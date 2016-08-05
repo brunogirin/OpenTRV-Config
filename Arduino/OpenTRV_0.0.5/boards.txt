@@ -1,0 +1,27 @@
+# OpenTRV board Configuration
+#
+# For more information see:
+# - https://github.com/arduino/Arduino/wiki/Arduino-IDE-1.5-3rd-party-Hardware-specification
+# - https://github.com/arduino/Arduino/wiki/Arduino-Hardware-Cores-migration-guide-from-1.0-to-1.6
+#
+
+##############################################################
+# OpenTRV V0p2
+opentrv_v0p2.name=OpenTRV V0p2
+opentrv_v0p2.upload.tool=arduino:avrdude
+opentrv_v0p2.upload.protocol=arduino
+opentrv_v0p2.upload.maximum_size=32256
+opentrv_v0p2.upload.speed=4800
+opentrv_v0p2.bootloader.tool=arduino:avrdude
+opentrv_v0p2.bootloader.low_fuses=0x42
+opentrv_v0p2.bootloader.high_fuses=0xde
+opentrv_v0p2.bootloader.extended_fuses=0x06
+opentrv_v0p2.bootloader.path=atmega
+opentrv_v0p2.bootloader.file=atmega328_opentrv_v0p2.hex
+opentrv_v0p2.bootloader.unlock_bits=0x3F
+opentrv_v0p2.bootloader.lock_bits=0x2F
+opentrv_v0p2.build.mcu=atmega328p
+opentrv_v0p2.build.f_cpu=1000000L
+opentrv_v0p2.build.board=AVR_V0P2
+opentrv_v0p2.build.core=arduino:arduino
+opentrv_v0p2.build.variant=arduino:standard
