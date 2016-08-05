@@ -12,11 +12,11 @@
             {
                "name": "OpenTRV V0p2",
                "architecture": "avr",
-               "version": "0.0.4",
+               "version": "0.0.5",
                "category": "Arduino",
                "url": "https://github.com/opentrv/OpenTRV-Config/raw/master/Arduino/OpenTRV_0.0.4.zip",
-               "archiveFileName": "OpenTRV_0.0.4.zip",
-               "checksum": "SHA-256:f3b7907ad7b1217d65dbddc1e7fc1c1c0db05e095f2e3ee2ba8074ef82ca07bb",
+               "archiveFileName": "OpenTRV_0.0.5.zip",
+               "checksum": "SHA-256:efdbff49f5904abdc9e484a019d5e410c549df3b731c4cbfcefad8b5e6b28df6",
                "size": "1800",
                "help":{
                   "online":"https://github.com/opentrv/OpenTRV-Config/wiki/Arduino-IDE-setup"

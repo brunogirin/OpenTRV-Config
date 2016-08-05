@@ -12,6 +12,7 @@ opentrv_v0p2.upload.tool=arduino:avrdude
 opentrv_v0p2.upload.protocol=arduino
 opentrv_v0p2.upload.maximum_size=32256
 opentrv_v0p2.upload.speed=4800
+opentrv_v0p2.bootloader.tool=arduino:avrdude
 opentrv_v0p2.bootloader.low_fuses=0x42
 opentrv_v0p2.bootloader.high_fuses=0xde
 opentrv_v0p2.bootloader.extended_fuses=0x06
